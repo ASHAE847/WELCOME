@@ -1,2 +1,2 @@
-#create new repository
-# create a new file byclicking newfile
+# create new repository
+ create a new file byclicking newfile
